@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## 🧑‍💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panditashushukl&layout=compact&theme=radical)
+
+
+## 📊 My LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/panditashushukl?theme=chartreuse&font=Jolly%20Lodger&ext=heatmap)](https://leetcode.com/panditashushukl/)
+
 <!--
 **panditashushukl/panditashushukl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
