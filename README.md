@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-[![MY Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://panditashushukl.github.io/portfolio/)  
-
-## 📊 My LeetCode Stats
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/panditashushukl?theme=chartreuse&font=Jolly%20Lodger&ext=heatmap)](https://leetcode.com/panditashushukl/)
-
+[![My Portfolio 🚀](https://img.shields.io/badge/My%20Portfolio-%23007ACC?style=for-the-badge&logo=githubpages&logoColor=white)](https://panditashushukl.github.io/portfolio/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panditashushukl&label=Profile%20views&color=0e75b6&style=flat" alt="panditashushukl" /> </p>
 
@@ -102,3 +97,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=panditashushukl&show_icons=true&locale=en" alt="panditashushukl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=panditashushukl&" alt="panditashushukl" /></p>
+
+## 📊 My LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/panditashushukl?theme=chartreuse&font=Jolly%20Lodger&ext=heatmap)](https://leetcode.com/panditashushukl/)
