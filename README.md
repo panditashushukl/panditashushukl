@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack developer and AI/ML enthusiast from India</h3>
 
 [![My Portfolio 🚀](https://img.shields.io/badge/My%20Portfolio-%23007ACC?style=for-the-badge&logo=githubpages&logoColor=white)](https://panditashushukl.github.io/portfolio/)
 
